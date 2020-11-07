@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1490bfeb-3998-4bb9-80ef-e70c51fdfa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dogYears/dog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dogYears/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dogYears/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604731469455</updated>
-      <workItem from="1604731470659" duration="366000" />
+      <workItem from="1604731470659" duration="957000" />
     </task>
     <servers />
   </component>
